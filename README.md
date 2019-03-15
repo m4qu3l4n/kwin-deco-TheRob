@@ -1,15 +1,9 @@
 
 
-TheRob building from source
-====================
 TheRob KDE window decoration 
-
+====================
 ![Demo](window.png)
-
-
-
 ### Installation
-
 
 ##### Building from source
 
