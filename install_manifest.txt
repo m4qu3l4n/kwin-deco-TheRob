@@ -1,0 +1,8 @@
+/usr/local/share/kwin/decorations/kwin4_decoration_qml_therob/metadata.desktop
+/usr/local/share/kwin/decorations/kwin4_decoration_qml_therob/contents/ui/main.qml
+/usr/local/share/kwin/decorations/kwin4_decoration_qml_therob/contents/ui/config.ui
+/usr/local/share/kwin/decorations/kwin4_decoration_qml_therob/contents/ui/TheRobButton.qml
+/usr/local/share/kwin/decorations/kwin4_decoration_qml_therob/contents/config/main.xml
+/usr/local/share/kservices5/kwin/kwin4_decoration_qml_therob.desktop
+/usr/lib64/qt5/qml/org/kde/kwin/decorations/therob/libtherobplugin.so
+/usr/lib64/qt5/qml/org/kde/kwin/decorations/therob/qmldir
