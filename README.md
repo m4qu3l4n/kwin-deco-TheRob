@@ -1,18 +1,22 @@
+
+
 TheRob building from source
 ====================
-
 TheRob KDE window decoration 
 
+![Demo](window.png)
 
 
-building from source
-====================
+
+### Installation
+
+
+##### Building from source
+
+```
 mkdir build
-<br>
 cd build
-<br>
 cmake -DCMAKE_INSTALL_PREFIX=/usr ..
-<br>
 make
-<br>
 sudo make install
+```
